@@ -1,0 +1,6 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "Push-Location": true,
+        "npm run dev": true
+    }
+}

@@ -1,0 +1,1 @@
+export const TASK_STATUSES = ["TODO", "IN_PROGRESS", "DONE"] as const;
